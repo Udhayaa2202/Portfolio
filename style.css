@@ -90,6 +90,11 @@ span {
     color: var(--main-color);
 }
 
+#myname {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
 .home-content h1 {
     font-size: 5.6rem;
     font-weight: 700;
@@ -99,7 +104,7 @@ span {
 .home-img img {
     width: 25vw;
     animation: floatImage 4s ease-in-out infinite;
-    border-radius: 700px;
+    border-radius: 500px;
 }
 
 @keyframes floatImage {
@@ -118,6 +123,11 @@ span {
 
 .home-content p {
     font-size: 1.6rem;
+    margin-right: 0.1rem;
+}
+
+.centered-text {
+    text-align: center;
 }
 
 .social-media a {

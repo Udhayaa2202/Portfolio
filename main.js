@@ -53,8 +53,8 @@ ScrollReveal().reveal('.home-contact p, .about-content', { origin: 'right' });
 /*================================== typed js ======================================*/
 const typed = new Typed('.multiple-text', {
     strings: ['Frontend Developer...', 'Web Designer...', 'App Developer...'],
-    typeSpeed: 70,
-    backSpeed: 70,
+    typeSpeed: 60,
+    backSpeed: 60,
     loop: true,
 });
 

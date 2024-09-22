@@ -305,11 +305,14 @@ span {
 
 .portfolio-layer h4 {
     font-size: 3rem;
+    color: white;
 }
 
 .portfolio-layer p {
     font-size: 1.6rem;
     margin: .3rem 0 1rem;
+    color: var(--text-color);
+    font-weight:800;
 }
 
 .portfolio-layer a {
@@ -318,13 +321,13 @@ span {
     align-items: center;
     width: 5rem;
     height: 5rem;
-    background: var(--text-color);
+    background: var(--snd-bg-color);
     border-radius: 50%;
 }
 
 .portfolio-layer a i {
     font-size: 2rem;
-    color: var(--snd-bg-color);
+    color:  var(--text-color);
 }
 
 .contact h2 {

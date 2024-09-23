@@ -44,6 +44,7 @@ section {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    user-select: none;
 }
 
 .logo {
@@ -54,10 +55,11 @@ section {
 }
 
 .navbar a {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: var(--text-color);
     margin-left: 4rem;
     font-weight: 700;
+    user-select: none;
 }
 
 .navbar a:hover,

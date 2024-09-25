@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "13798000000008075",
+      "name": "udhayaa22",
+      "domain": {
+        "id": "10088937715",
+        "name": "udhayaa22-865988809.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "865988809",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

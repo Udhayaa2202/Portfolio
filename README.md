@@ -13,3 +13,14 @@ It's a personal project that reflects my journey as a web developer and includes
 - 📚 **CSS3**: Styling the portfolio with modern design techniques.
 - 🧩 **JavaScript**: Adding interactivity and functionality to the site.
 
+# **Get Started**
+### Clone this repository:
+```bash
+git clone https://github.com/Udhayaa2202/Portfolio.git
+
+cd Portfolio
+```
+# **Contact**
+For more info reachout me through:
+- Github: [Udhayaa V D](https://github.com/udhayaa2202).
+- Email: [Email](udhayaaudhayaa987@gmail.com)

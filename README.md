@@ -1,3 +1,4 @@
+<p align="left">
 # **My Portfolio**
 Welcome to my portfolio! This project showcases my skills in front-end development using HTML, CSS, and JavaScript. 
 It's a personal project that reflects my journey as a web developer and includes a collection of my works, projects, and information about me.
@@ -24,3 +25,4 @@ cd Portfolio
 For more info reachout me through:
 - Github: [Udhayaa V D](https://github.com/udhayaa2202).
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/udhayaa22022005/)
+</p>

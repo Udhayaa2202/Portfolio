@@ -23,4 +23,4 @@ cd Portfolio
 # **Contact**
 For more info reachout me through:
 - Github: [Udhayaa V D](https://github.com/udhayaa2202).
-- Email: [Email](udhayaaudhayaa987@gmail.com)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/udhayaa22022005/)

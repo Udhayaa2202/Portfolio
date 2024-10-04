@@ -1,6 +1,7 @@
 # **My Portfolio**
 Welcome to my portfolio! This project showcases my skills in front-end development using HTML, CSS, and JavaScript. 
 It's a personal project that reflects my journey as a web developer and includes a collection of my works, projects, and information about me.
+Website is still in developmet so if you're face any issues don't worry about that fix it soon!...
 
 # **Features** 
 - **Custom Animations**: Utilized CSS animations and transitions to create a smooth and engaging user experience.

@@ -167,14 +167,14 @@
         <h2 class="heading">Contact <span>Me</span></h2>
         <form action="#">
             <div class="input-box">
-                <input type="text" placeholder="Full Name">
-                <input type="email" placeholder="Email Address">
+                <input type="text" placeholder="Full Name" id="name">
+                <input type="email" placeholder="Email Address" id="email">
             </div>
             <div class="input-box">
-                <input type="number" placeholder="Mobile Number">
-                <input type="text" placeholder="Email Subject">
+                <input type="number" placeholder="Mobile Number" id="phone">
+                <input type="text" placeholder="Email Subject" id="subject">
             </div>
-            <textarea name="" id="" cols="30" rows="10" placeholder="Your Message..."></textarea>
+            <textarea name="" id="message" cols="30" rows="10" placeholder="Your Message..."></textarea>
             <input type="submit" value="Send Message" class="btn">
         </form>
     </section>
@@ -185,7 +185,7 @@
             <p>CopyRight &copy; 2024 by @Udhayaa | All Rights Reserved.</p>
         </div>
         <div class="footer-iconTop">
-            <a href="#home"><i class="fa-solid fa-angle-up"></i></a>
+            <a href="#home"><i class="fa-so lid fa-angle-up"></i></a>
         </div>
     </footer>
 
@@ -197,6 +197,9 @@
     <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
 
     <!-----Main Js-->
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
     <script src="main.js"></script>
 </body>
 </html>

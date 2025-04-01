@@ -1,5 +1,5 @@
 # **My Portfolio**
-Welcome to my portfolio! This project showcases my skills in front-end development using HTML, CSS, and JavaScript. 
+<!---Welcome to my portfolio! This project showcases my skills in front-end development using HTML, CSS, and JavaScript. 
 It's a personal project that reflects my journey as a web developer and includes a collection of my works, projects, and information about me.
 - *Website is still in developmet so if you're face any issues don't worry about that fix it soon!...*
 - *Provide me suggestions from your point of view to made changes*
@@ -26,4 +26,6 @@ cd Portfolio
 For more info reachout me through:
 - Github: [Udhayaa V D](https://github.com/udhayaa2202).
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/udhayaa22022005/)
-- There Will Be A New Portfolio Update "Soon" (Upcomming with a new portfolio)
+- There Will Be A New Portfolio Update "Soon" (Upcomming with a new portfolio)--->
+
+Under Maintenance.

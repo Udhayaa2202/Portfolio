@@ -26,6 +26,7 @@ cd Portfolio
 For more info reachout me through:
 - Github: [Udhayaa V D](https://github.com/udhayaa2202).
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/udhayaa22022005/)
-- There Will Be A New Portfolio Update "Soon" (Upcomming with a new portfolio)--->
+- There Will Be A New Portfolio Update "Soon" (Upcomming with a new portfolio) 
 
-Under Maintenance.
+Under Maintenance. --->
+

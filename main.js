@@ -72,7 +72,7 @@ function sendEmail() {
     Email.send({
         Host : "smtp.elasticemail.com",
         Username : "udhayaaudhayaa987@gmail.com",
-        Password : "---", //this is sensitive
+        // Password : "63B5AA070C1BE6D5A8E5B1790BA060CD114A", //this is sensitive
         To : 'udhayaaudhayaa987@gmail.com',
         From : "udhayaaudhayaa987@gmail.com",
         Subject : subject.value,
